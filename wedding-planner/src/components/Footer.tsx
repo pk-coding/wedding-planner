@@ -8,7 +8,7 @@ const Footer = () => {
                 <img
                     src={logoImage}
                     alt="Ikona"
-                    className="inline w-4 h-4 mx-1 align-text-bottom"
+                    className="inline w-8 h-8 mx-1 align-text-bottom"
                 />
                 Wedding-Planner. Wszelkie prawa zastrzeżone.
             </p>
