@@ -11,11 +11,11 @@ const Home = () => {
             />
 
             <div className="relative z-10 flex flex-col items-center justify-center min-h-screen p-4">
-                <h1 className="text-3xl font-bold mb-10 text-center text-gray-800 drop-shadow-lg">
+                <h1 className="text-4xl font-bold mb-10 text-center text-gray-800 drop-shadow-lg">
                     Witaj w Wedding-Planner
                 </h1>
 
-                <div className="grid grid-cols-2 gap-4 w-full max-w-4xl px-4">
+                <div className="grid grid-cols-2 gap-4 w-full max-w-4xl px-4 text-xl">
                     <div
                         className={`bg-white/20 rounded-lg p-6 text-center text-gray-800 font-bold cursor-pointer ${styles.slideInLeft}`}
                         style={{ animationDelay: '0ms' }}

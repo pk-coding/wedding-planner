@@ -2,7 +2,7 @@ import logoImage from '../assets/images/logo.webp';
 
 const Footer = () => {
     return (
-        <footer className="bg-gray-900 text-gray-400 p-4 text-center text-sm">
+        <footer className="bg-gray-900 text-gray-400 p-4 text-center text-lg">
             <p>
                 © {new Date().getFullYear()}
                 <img
